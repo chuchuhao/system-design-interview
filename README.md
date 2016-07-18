@@ -1,4 +1,12 @@
+# note By me
+
+http://stackoverflow.com/questions/22027599/resources-to-learn-solving-system-design-interview-problems
+https://www.quora.com/How-do-I-prepare-to-answer-design-questions-in-a-technical-interview?redirected_qid=1500023
+
+# origin resource 
+
 [![logo](imgs/systemcycle.png)](https://github.com/checkcheckzz/system-design-interview)
+
 
 > How to prepare system design questions for IT company
 
